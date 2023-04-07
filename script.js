@@ -133,7 +133,7 @@ function display(n) {
     img2.style = 'display: block;';
     s2.style = 'background: #E5E8EF; color: #DF2771;';
   }
-  if(n==3) {
+  if(n==3) {6
     img3.style = 'display: block;';
     s3.style = 'background: #E5E8EF; color: #DF2771;';
   }
